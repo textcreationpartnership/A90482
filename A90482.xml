@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of four letters of great consequence, read in the House of Commons, Octob. 11. and 12. 1. The King of Spaine his letter to his ambassadour, concerning the affairs in England. 2. Of the taking of five ships by the marchant adventurers, that were coming out of Spain to aid the rebels in Ireland, with great store of money, arms and ammunition. 3. Captain Thompsons relation to the House, of his taking Sir Edward Berkeley, and divers others in the county of Somerset, and his bringing of them up to London. 4. Secretary Nicholas his letter, concerning the Earl of Essex.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90482</idno>
+            <idno type="STC">Wing P1506</idno>
+            <idno type="STC">Thomason E122_1</idno>
+            <idno type="STC">ESTC R16885</idno>
+            <idno type="EEBO-CITATION">99860108</idno>
+            <idno type="PROQUEST">99860108</idno>
+            <idno type="VID">112215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112215)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of four letters of great consequence, read in the House of Commons, Octob. 11. and 12. 1. The King of Spaine his letter to his ambassadour, concerning the affairs in England. 2. Of the taking of five ships by the marchant adventurers, that were coming out of Spain to aid the rebels in Ireland, with great store of money, arms and ammunition. 3. Captain Thompsons relation to the House, of his taking Sir Edward Berkeley, and divers others in the county of Somerset, and his bringing of them up to London. 4. Secretary Nicholas his letter, concerning the Earl of Essex.</title>
+                  <author>Philip IV, King of Spain, 1605-1665.</author>
+                  <author>Nicholas, Edward, Sir, 1593-1669.</author>
+                  <author>Thompson, George, 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>October 14. Printed for Robert Wood,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berkeley, Edward, --  Sir, b. 1619.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112215:1" rendition="simple:additions"/>
+            <p>A perfect Relation of four LETTERS OF Great Conſequence, Read in the Houſe of <hi>Commons, Octob.</hi> 11. and 12.</p>
+            <list>
+               <item>1. The King of Spaine His Letter to His Ambaſſadour, concerning the Affairs in <hi>England.</hi>
+               </item>
+               <item>2. Of the taking of five ſhips by the Mar<g ref="char:EOLhyphen"/>chant Adventurers, that were comming out of Spain to aid the Rebels in <hi>Ireland,</hi> with great ſtore of mo<g ref="char:EOLhyphen"/>ney, Arms and Ammunition.</item>
+               <item>3. Captain <hi>Thompſons</hi> Relation to the Houſe, of his taking Sir <hi>Edward Berkeley,</hi> and divers others in the County of <hi>Somerſet,</hi> and his bringing of them up to <hi>London.</hi>
+               </item>
+               <item>4. Secretary <hi>Nicholas</hi> his Letter, concerning the Earl of Eſſex.</item>
+            </list>
+            <p>
+               <hi>October</hi> 14. Printed for <hi>Robert Wood,</hi> 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112215:2"/>
+            <pb facs="tcp:112215:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>device representing the Union of the Crowns depicting a lion and a unicorn, i. e. England and Scotland, respectively.</figDesc>
+               </figure>
+            </head>
+            <head>A RELATION <hi>OF</hi> The taking of five ſhips by the <hi>Marchant</hi> Adventurers, that were comming out of Spain to aid the Rebels in Ireland, with great ſtore of money, Arms, and Ammunition.</head>
+            <p>O O <hi>Tueſday</hi> laſt Letters were read in the Houſe of Commons, inti<g ref="char:EOLhyphen"/>mating, that the <hi>Marchant Ad<g ref="char:EOLhyphen"/>venturers</hi> for <hi>Ireland,</hi> had taken five ſhips which were comming from <hi>Spain,</hi> laden with Ammunition and other proviſion for warre, that were comming towards <hi>Limbrick</hi> to aid the Rebels in <hi>Ireland,</hi> and as it is credibly informed, they took with
+<pb facs="tcp:112215:3"/>
+the ſaid ſhips, and ammunition at leaſt 30000. l, in money.</p>
+            <p>Whereupon the Houſe taking it into ſerious conſideration, that it is a Breach of the Treaty between <hi>Spain</hi> and <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that they ſhould ſend aid into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> to aſſiſt thoſe that are Rebels to the Crown of <hi>England,</hi> they ſent to the Spa<g ref="char:EOLhyphen"/>niſh Embaſſadour, to deſire him to ſend to His Maſter the Catholique King, that He ſhould prevent the comming over of any ſuch aid and aſſiſtance into <hi>Ireland,</hi> or any other part of His Majeſties Do<g ref="char:EOLhyphen"/>minions, becauſe it is plainly againſt the <hi>Articles of Peace,</hi> between <hi>England</hi> and <hi>Spain.</hi>
+            </p>
+            <p>And becauſe the Dunkirks do rob and pillage our Engliſh Marchants, and others of His Majeſties good ſubjects, and do uſe their uttermoſt endeavour to bring relief to the Rebels in <hi>Ireland,</hi> the Parliament hath granted Letters of Mort to certain Merchants to ſend out ſhips to clenſe the Seas, and to ceize upon all Pyrats or other ſhips ſending aid to the Rebels in <hi>Jre<g ref="char:EOLhyphen"/>land,</hi>
+               <pb facs="tcp:112215:3"/>
+or againſt the Parliament, and to take them as their lawfull Prize.</p>
+         </div>
+         <div type="letter">
+            <head>A Letter from the King of <hi>Spain</hi> to His Privie Counſell at <hi>Madrid</hi> in <hi>Spain,</hi> when they were conſulting of the Affaires of <hi>England</hi> and <hi>Germanie.</hi>
+            </head>
+            <p>RIght Truſt, and well beloved Co<g ref="char:EOLhyphen"/>ſens and Counſellours, we greete you well, Wheras We had a hope by Our Agents in <hi>England</hi> and <hi>Germany,</hi> to effect that great Work of the Weſtern Empire, and likewiſe on the other ſide to ſurprize <hi>Venice,</hi> and ſo incerculing Eu<g ref="char:EOLhyphen"/>rope at an inſtance, and to enfold it in Our arms to make the eaſier Rode upon the Turk in <hi>Aſia,</hi> and at length to reduce all the World to Our Catholique Com<g ref="char:EOLhyphen"/>mand. And whereas to this holy end We had ſecret and ſure plots and projects on foot in all Chriſtendome, and good In<g ref="char:EOLhyphen"/>telligence from all Courts.</p>
+            <p>
+               <pb facs="tcp:112215:4"/>Know ye, that wee have received late and ſad News of the apprehenſion of our moſt truſty and all <hi>Pentioner Barnevelt,</hi> &amp; of the diſcovery of other our Intend<g ref="char:EOLhyphen"/>ments, ſo that our hopes are for the pre<g ref="char:EOLhyphen"/>ſent adjorned, till after more convenient and auſpicious time.</p>
+            <p>Wee therfore will ye preſently upon ſight hereof, to break off your conſultati<g ref="char:EOLhyphen"/>on, and repair ſtraight to Our preſence, there to take further directions, and pro<g ref="char:EOLhyphen"/>ceed as the neceſſity of the time and cauſe ſhall require.</p>
+         </div>
+         <div type="report_to_the_House_of_Commons">
+            <head>Captain Thompſons Report to the Houſe of of Commons, October <hi>12.</hi>
+            </head>
+            <p>On <hi>Wedneſday</hi> Captain <hi>Thompſon</hi> that hath done good ſervice for the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> in <hi>Somerſetſhire,</hi> came to the Houſe, certifying them, that he had with much difficulty and danger taken Sir <hi>Edward Radgar,</hi> Sir <hi>Edward Berkly,</hi> and certain o<g ref="char:EOLhyphen"/>thers of thoſe that were the principall Incendiaries of diſcord in that County,
+<pb facs="tcp:112215:4"/>
+and that they were comming up with a guard to the <hi>Parliament,</hi> and would be at <hi>London</hi> this night.</p>
+            <p>A Letter was intercepted going from <hi>Secrerary Nicholas</hi> to the E. of <hi>Newcastle,</hi> affirming with confidence, that Colonell <hi>Sands</hi> ſhould acknowledg he was through miſ-information, and his own ambition, drawn to ſide with the <hi>Parliament,</hi> and that his conſcience did ſatisfie he was in<g ref="char:EOLhyphen"/>gaged in a bad cauſe, and craved pardon of God and the King, and would hereaf<g ref="char:EOLhyphen"/>ter, if he recovered turn againſt the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>This being made known to Collonell <hi>Sands</hi> at <hi>Worceſter, October</hi> 4. he did ex<g ref="char:EOLhyphen"/>preſſe much Indignation againſt the <hi>Se<g ref="char:EOLhyphen"/>crerary,</hi> and ſaid that ſuch perfidious per<g ref="char:EOLhyphen"/>ſons as he was, did make the King do th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he would not doe, and that it was falſe which the <hi>Secretary</hi> had written: For he was ſo farre from repenting to lay down his life in this Cauſe in the King and Parliaments behalf, that if he had tenne thouſand lives he would ſacrifice them
+<pb facs="tcp:112215:5"/>
+all, and was ſatisfied in his conſcience, that they were the Kings beſt ſubjects that ſtood with the Parliament to defend Religion, Laws and Liberties, and they the worſt Subjects that did adviſe or aſ<g ref="char:EOLhyphen"/>ſiſt his Majeſty by force to deſtroy His <hi>Parliament,</hi> and in them Religion, Lawes and Libertie.</p>
+            <p>The <hi>Secretary</hi> further writ, that the Eſſexians were but 8000. foot, and 2000. Horſe, and that His Majeſty had 5600. foot well armed, beſides the Lord <hi>Strange</hi> 3000. men, and that His Majeſty intends for <hi>London.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
